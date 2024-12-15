@@ -14,9 +14,14 @@
 
 I am a Unity Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+* 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+* 🌍  I'm based in Barcelona, Spain
+* 🖥️  See my portfolio at [peterparker.com](http://peterparker.com)
+* ✉️  You can contact me at [peter@pparker.com](mailto:peter@pparker.com)
+* 🚀  I'm currently working on [peterparker.com](http://peterparker.com)
+* 🧠  I'm learning a new JavaScript framework
+* 🤝  I'm open to collaborating on interesting JavaScript projects
+* ⚡  I moonlight as a super hero
 - 📫 How to reach me: &nbsp; [![Linkedin]](https://www.linkedin.com/in/juanjo-molina-a5293b306/)
 
 ---
